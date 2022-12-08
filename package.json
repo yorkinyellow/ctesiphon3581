@@ -1,0 +1,14 @@
+{
+  "name": "ctesiphon3581",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "xoslotz Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ xoslotz เว็บสล็อตออนไลน์ สล็อตแตกง่าย รวมทุกค่ายดัง นำเสนอสล็อตแบบครบวงจร ทำกำไรได้ทุกเกม",
+  "keywords": [
+    "xoslotz Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ xoslotz เว็บสล็อตออนไลน์ สล็อตแตกง่าย รวมทุกค่ายดัง นำเสนอสล็อตแบบครบวงจร ทำกำไรได้ทุกเกม"
+  ],
+  "repository": "https://github.com/yorkinyellow/ctesiphon3581",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
